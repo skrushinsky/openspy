@@ -1,8 +1,6 @@
 import os
 import logging
 import argparse
-import collections
-from pprint import pformat
 import json
 from operator import itemgetter
 from functools import partial
